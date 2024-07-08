@@ -1,13 +1,13 @@
-### English:
+### 🇺🇸 English:
 
-## Description
+##  Description
 This repository provides detailed instructions and scripts to reset the login password on Linux systems using the GRUB bootloader.
 
-## Usage
+## 🔧 Usage
 
 Follow the steps below to use GRUB and reset the root password of your Linux operating system.
 
-### Steps
+### 🛠️ Steps
 
 1. **Access GRUB**
    - Boot the computer and access the GRUB menu. If it doesn't appear, press a key like `Esc` or `Shift` during startup.
@@ -37,16 +37,16 @@ Follow the steps below to use GRUB and reset the root password of your Linux ope
 
 ---
 
-### Italiano:
+###  🇮🇹 Italiano:
 
-## Descrizione
+##  Descrizione
 Questo repository fornisce istruzioni dettagliate e script per reimpostare la password di accesso su sistemi Linux utilizzando il bootloader GRUB.
 
-## Utilizzo
+## 🔧 Utilizzo
 
 Segui i passaggi di seguito per utilizzare GRUB e reimpostare la password di root del tuo sistema operativo Linux.
 
-### Passaggi
+### 🛠️ Passaggi
 
 1. **Accedere a GRUB**
    - Avvia il computer e accedi al menu di GRUB. Se non compare, premi un tasto come `Esc` o `Shift` durante l'avvio.
@@ -71,5 +71,8 @@ Segui i passaggi di seguito per utilizzare GRUB e reimpostare la password di roo
    - Dopo aver cambiato la password, riavvia il sistema usando il comando:
      ```
      reboot
+     ```
+     Il sistema dovrebbe avviarsi normalmente, consentendoti di accedere con la nuova password di root.
+
      ```
      Il sistema dovrebbe avviarsi normalmente, consentendoti di accedere con la nuova password di root.
