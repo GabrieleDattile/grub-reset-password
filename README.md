@@ -74,5 +74,3 @@ Segui i passaggi di seguito per utilizzare GRUB e reimpostare la password di roo
      ```
      Il sistema dovrebbe avviarsi normalmente, consentendoti di accedere con la nuova password di root.
 
-     ```
-     Il sistema dovrebbe avviarsi normalmente, consentendoti di accedere con la nuova password di root.
